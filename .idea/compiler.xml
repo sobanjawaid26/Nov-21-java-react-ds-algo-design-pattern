@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gfg_ds_algo_self_paced" />
+        <module name="design-pattern-implementation-java" />
+        <module name="streams" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="design-pattern-implementation-java" target="8" />
+      <module name="gfg_ds_algo_self_paced" target="8" />
+      <module name="streams" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

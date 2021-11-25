@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns-implementation-java-master/design-pattern-implementation-java.iml" filepath="$PROJECT_DIR$/design-patterns-implementation-java-master/design-pattern-implementation-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gfg_ds_algo_self_paced-master/gfg_ds_algo_self_paced.iml" filepath="$PROJECT_DIR$/gfg_ds_algo_self_paced-master/gfg_ds_algo_self_paced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-streams/streams.iml" filepath="$PROJECT_DIR$/java-streams/streams.iml" />
+    </modules>
+  </component>
+</project>
